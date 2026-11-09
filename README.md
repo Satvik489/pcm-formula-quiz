@@ -24,4 +24,6 @@ Bobbili Sai Satvik
 
 ## Quiz Result
 
-![PCM Quiz Result](Screenshot 2026-11-09 183244.png)
+## Quiz Result
+
+![PCM Quiz Result](Screenshot%202026-11-09%20183244.png)
