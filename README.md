@@ -21,3 +21,7 @@ Completed – A working beginner-level Python quiz project.
 
 Author
 Bobbili Sai Satvik
+
+## Quiz Result
+
+![PCM Quiz Result](Screenshot 2026-11-09 183244.png)
